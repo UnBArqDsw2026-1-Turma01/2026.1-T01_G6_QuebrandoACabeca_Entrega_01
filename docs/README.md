@@ -1,9 +1,4 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-# Nome do Projeto
+# Quebrando A Cabeça
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 06<br>
@@ -25,7 +20,7 @@ Demais diretrizes constam no Moodle.
 
 ## Sobre
 
-O **Grupo G6** visa desenvolver o software **QuebrandoACabeça**, cuja finalidade principal é gerar imagens com aspecto visual de quebra-cabeça a partir de fotos fornecidas pelo usuário. Como escopo estendido, o sistema preverá um ambiente interativo para a montagem virtual dos quebra-cabeças.
+O **Grupo G6** visa desenvolver o software **Quebrando A Cabeça**, cuja finalidade principal é gerar imagens com aspecto visual de quebra-cabeça a partir de fotos fornecidas pelo usuário. Como escopo estendido, o sistema preverá um ambiente interativo para a montagem virtual dos quebra-cabeças.
 
 O sistema é construído como requisito de avaliação da disciplina **Arquitetura & Desenho de Software (FGA0208)**, ofertada no semestre **2026.1** pela Faculdade de Ciências e Tecnologias (FCTE) da Universidade de Brasília (UnB), sob supervisão da Prof.ª Milene Serrano.
   
