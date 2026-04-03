@@ -29,13 +29,5 @@ Repositório Oficial do Projeto mantido na Organização FGA0208 no [GitHub](htt
 ## Screenshots da Primeira Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
-## Há algo a ser executado?
-
-( ) SIM
-
-(X) NÃO
-
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
-
 ## Informações Complementares 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
