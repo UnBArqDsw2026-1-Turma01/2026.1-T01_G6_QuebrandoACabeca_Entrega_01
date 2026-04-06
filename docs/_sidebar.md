@@ -3,6 +3,11 @@
 - [Início](/)
 <!--- [Projetos](/Projeto/Projeto.md)-->
 
+- **Atas de Reuniões**
+  - [Ata de Reunião #1](./AtasReunioes/Ata1.md)
+  - [Ata de Reunião #2](./AtasReunioes/Ata2.md)
+  - [Ata de Reunião #3](./AtasReunioes/Ata3.md)
+
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
     - [1.1. Design Sprint](/Base/1.1.DesignSprint.md)
