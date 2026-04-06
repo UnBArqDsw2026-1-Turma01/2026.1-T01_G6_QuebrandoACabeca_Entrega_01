@@ -26,6 +26,14 @@
                 display: table;
                 width: 100%;
             }
+            body {
+                counter-reset: figura;
+            }
+            figcaption::before {
+                counter-increment: figura;
+                content: "Figura " counter(figura) ": ";
+            }
+            figcaption { text-align: center; }
         </style>
     </head>
     <body>

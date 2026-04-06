@@ -1,4 +1,4 @@
-## **Ata de Reunião 01**
+## Ata de Reunião 01
 
 **Data:** 28/03/2026
 
