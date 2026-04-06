@@ -22,9 +22,9 @@ Este glossário lista termos/palavras-chave dos domínios do conhecimento que ve
 | ------------- | -------------------------------- | ---- | -------------- |
 | Borda         | *Edge*                           | Substantivo | Peça com pelo menos um lado reto, usada para formar o limite externo do quebra-cabeça (assumindo o uso de formato padrão retangular ou quadrado). |
 | Canto         | *Corner*                         | Substantivo | Peça com exatamente dois lados retos. Como o seu próprio nome sugere, tal peça é empregada para cada canto diagonal do limite do quebra-cabeça. |
-| Cavidades     | *Blanks*; *sockets*              | Substantivo | Os espaços vazios ou buracos onde as saliências se encaixam. Na área técnica, também chamados de *Augen*.. Coloquialmente, podem ser apelidadas em inglês de "*innies*". |
+| Cavidades     | *Blanks*; *sockets*              | Substantivo | Os espaços vazios ou buracos onde as Saliências se encaixam. Na área técnica, também chamados de *Augen*.. Coloquialmente, podem ser apelidadas em inglês de "*innies*". |
 | Peça figurativa | *Whimsie*                      | Substantivo | Peça cortada em formatos reconhecíveis (como animais, flores ou objetos). É uma marca registrada de quebra-cabeças de madeira clássicos e de luxo. |
-| saliências     | *Tabs*; *knobs*                  | Substantivo | As extensões que se projetam para fora da peça, popularmente chamadas de "pinos" ou "cabeças". Na fabricação, também são referidas pelo termo técnico alemão *Zapfen*. Coloquialmente, podem ser apelidadas em inglês de "*outies*". |
+| Saliências     | *Tabs*; *knobs*                  | Substantivo | As extensões que se projetam para fora da peça, popularmente chamadas de "pinos" ou "cabeças". Na fabricação, também são referidas pelo termo técnico alemão *Zapfen*. Coloquialmente, podem ser apelidadas em inglês de "*outies*". |
 
 ## Glossário 4: Tipos de Corte e Fabricação
 
